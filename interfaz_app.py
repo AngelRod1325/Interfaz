@@ -1,2 +1,2 @@
-# Interfaz
-crear la interfaz del proyecto automatas
+pip install streamlit
+streamlit hello
